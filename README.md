@@ -7,10 +7,10 @@ Simple Sbis parser.
 Use the package manager pip to install libraries.
 
 ```bash
-pip install beautifulsoup4
+pip install requests
 ```
 ```bash
-pip install requests
+pip install beautifulsoup4
 ```
 ```bash
 pip install pandas
